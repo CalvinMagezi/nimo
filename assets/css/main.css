@@ -198,7 +198,7 @@
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			background-image: url("../../images/overlay3.gif"), url("../../images/bg.jpeg");
+			background-image: url("../../images/overlay3.gif"), url("../../images/bg.jpg");
 			background-repeat: no-repeat, repeat-x;
 			background-size: cover, cover;
 		}
